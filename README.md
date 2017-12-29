@@ -8,7 +8,7 @@
 ![结果图](https://github.com/clayandgithub/img2char/blob/master/output.jpg?raw=true)
 
 ## 运行方法
-python train.py
+python main.py
 
 ## 参数说明
 - scale：结果图相对原图的缩放倍数，最好是大于等于1的整数
